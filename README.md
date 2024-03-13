@@ -1,5 +1,5 @@
 # About me 👋
 ## Language
-- Kotlin
-- JavaScript, TypeScript
+- Kotlin (Android apps)
+- JavaScript, TypeScript (React Native)
 - Python

@@ -1,9 +1,5 @@
 # About me 👋
-## Languages
-- Kotlin (Android apps)
-- JavaScript, TypeScript (React Native)
-- Python
-
-## (Real world) Languages
-- Japanese
-- English
+Writing..
+- JavaScript, Typescript (React, RN)
+- Kotlin
+- Python 

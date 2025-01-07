@@ -1,20 +1,25 @@
-![sdk-react-native](https://github.com/user-attachments/assets/13bdaf2a-6537-4f72-9723-fc478c0f376b)<h1 align="left">Hi there👋</h1>
+# Hi there👋
 
 ###
 
-<p align="left">My name is Kota. <br>I'm a student frontend/backend developer.</p>
+My name is Kota, a student frontend/backend developer in Japan.
 
 ###
 
-<h2 align="left">About me</h2>
+## About me
 
 ###
 
-<p align="left">📚 I'm currently learning...<br>* golang<br>* Rust<br><br>🎯 Goals: <br>Build a backend with golang.</p>
+📚 I'm currently learning...
+  * golang
+  * Rust
+
+🎯 Goals: Build a production backend with golang.  
+🎲 Fun fact: Lived in 🇹🇭 🇧🇷
 
 ###
 
-<h2 align="left">I code with</h2>
+## I code with
 
 ###
 
@@ -42,13 +47,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
 </div>
-
-###
-
-<h2 align="left">My Projects</h2>
-
-###
-
-<p align="left"></p>
-
-###

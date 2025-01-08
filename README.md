@@ -32,8 +32,9 @@ My name is Kota, a student frontend/backend developer in Japan.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/38385360-0465-43da-ab08-0765283b320c" height="40" alt="react native logo" style="border-radius: 4px;" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/38385360-0465-43da-ab08-0765283b320c" height="40" alt="react native logo" style="border-radius: 4px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />

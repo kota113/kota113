@@ -6,7 +6,7 @@ My name is Kota, a student frontend/backend developer in Japan.
 
 ###
 
-## [My Projects (Portfolio)](portfolio.kota113.com)
+## [My Projects (Portfolio)](https://portfolio.kota113.com)
 
 ###
 

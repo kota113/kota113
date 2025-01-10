@@ -10,6 +10,10 @@ My name is Kota, a student frontend/backend developer in Japan.
 
 ###
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kota113)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kota113)
+
+
 ## About me
 
 ###

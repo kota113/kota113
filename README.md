@@ -2,7 +2,7 @@
 
 ###
 
-My name is Kota, a student frontend/backend developer in Japan.
+My name is Kota, a student frontend/backend developer in Japan. Studying in Keio Univ.
 
 ###
 

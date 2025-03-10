@@ -6,6 +6,11 @@ My name is Kota, a student frontend/backend developer in Japan. Studying in Keio
 
 ###
 
+## Blogs
+* [Zenn.dev](https://zenn.dev/kota113)
+
+###
+
 ## [My Projects (Portfolio)](https://portfolio.kota113.com)
 
 ###

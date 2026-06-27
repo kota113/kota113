@@ -2,33 +2,13 @@
 
 ###
 
-My name is Kota, a student frontend/backend developer in Japan. Studying in Keio Univ.
-
-###
-
 ## Blogs
 * [Zenn.dev](https://zenn.dev/kota113)
 
 ###
 
-## [My Projects (Portfolio)](https://portfolio.kota113.com)
-
-###
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kota113)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kota113)
-
-
-## About me
-
-###
-
-📚 I'm currently learning...
-  * golang
-  * Rust
-
-🎯 Goals: Build a production backend with golang.  
-🎲 Fun fact: Lived in 🇹🇭 🇧🇷
 
 ###
 
